@@ -8,7 +8,8 @@ A passionate DevOps and Cloud Engineer from India
 •	📫 How to reach me dineeshreddy236@gmail.com 
 
 •	⚡ Fun fact We guys automate stuff
-Connect with me:
+
+Connect with me:https://www.linkedin.com/in/dineesh-reddy-697b822a9/
  
 👨💻 Some of the projects I have worked recently
 DevOps Stack
