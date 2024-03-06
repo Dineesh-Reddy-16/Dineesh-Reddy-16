@@ -13,16 +13,27 @@ Connect with me:https://www.linkedin.com/in/dineesh-reddy-697b822a9/
  
 👨💻 Some of the projects I have worked recently
 DevOps Stack
+     
      AWS,Terraform,Jenkins,Docker,Kubernetes,Helm,Premethous,Grafana.                 
+
 Programming Language Stack
+
      Bash,Groovy.
+     
 OS Stack
-    Linux,Windows.     
+
+    Linux,Windows. 
+    
 Database Stack
+
     MySQl.   
+    
 Project Management Stack
-    GIT,Github,Gitlab.     
+
+    GIT,Github,Gitlab.
+    
 Editor / IDE I ♥
+
  Visual Studio.   
 
 
